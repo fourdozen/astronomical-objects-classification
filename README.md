@@ -1,2 +1,3 @@
-# astronomical-objects-classification
-Classification of Images of Astronomical Objects from Sloan Digital Sky Survey
+# Galaxy Classification
+
+Glassification of Elliptical, Spiral, Barred Spiral Galaxies from the Galaxy Zoo 2 dataset.
